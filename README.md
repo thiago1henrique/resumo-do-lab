@@ -14,3 +14,7 @@ Nesse módulo aprendi sobre
 * Segurança com uma series de ferramentas
 * Governaça para seguir a diretirz da empresa
 * Gerenciamento sendo que podemos escalar automaticamente com base na necessidade ou algo pré configurado manualmente.
+
+## Tipos de serviços em nuvem 
+Aprendi que a Azure é bem versatil na criação de maquina virtual. Podemos até ter um preview de quanto custa a máquina virtual e servidor 
+e que temos total controle sob como criamos a máquina virtual.
